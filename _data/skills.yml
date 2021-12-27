@@ -2,23 +2,19 @@ languages:
   - item: JavaScript (ES6)
   - item: TypeScript
   - item: HTML
-  - item: CSS/Sass
+  - item: CSS
   - item: Python
   - item: SQL
 
-frameworks:
+tools & frameworks:
   - item: React & React Native
   - item: Django REST
   - item: Node.js
-  - item: D3
-  - item: Wordpress
-
-
-tools:
   - item: Figma
   - item: Git & Github
   - item: PostgreSQL
   - item: MongoDB
+  - item: Agile
 
 product:
   - item: Agile Methodology
