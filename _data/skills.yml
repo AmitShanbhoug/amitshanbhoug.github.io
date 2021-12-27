@@ -6,7 +6,7 @@ languages:
   - item: Python
   - item: SQL
 
-tools & frameworks:
+tools&frameworks:
   - item: React & React Native
   - item: Django REST
   - item: Node.js
