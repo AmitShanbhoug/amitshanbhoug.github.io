@@ -5,7 +5,6 @@ languages:
   - item: CSS/Sass
   - item: Python
   - item: SQL
-  - item: R
 
 frameworks:
   - item: Ember & Glimmer
@@ -17,17 +16,15 @@ frameworks:
   - item: Timber
 
 tools:
-  - item: Bash
+  - item: Figma
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
+  - item: PostgreSQL
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+product:
+  - item: Agile Methodology
+  - item: Rapid Prototyping
+  - item: Product Roadmap
+  - item: Scrum Sprint Burndown
+  - item: Human-Centered Design
+  - item: Product Strategy
