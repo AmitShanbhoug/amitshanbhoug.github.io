@@ -7,13 +7,12 @@ languages:
   - item: SQL
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
+  - item: React & React Native
+  - item: Django REST
+  - item: Node.js
   - item: D3
   - item: Wordpress
-  - item: Timber
+
 
 tools:
   - item: Figma
@@ -28,3 +27,7 @@ product:
   - item: Scrum Sprint Burndown
   - item: Human-Centered Design
   - item: Product Strategy
+
+interests:
+  - item: SMART Cities
+  - item: Autonomous Vehicles
