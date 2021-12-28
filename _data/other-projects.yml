@@ -7,29 +7,25 @@
     - thing: Data Pipeline
     - thing: System Design
 
-- name: Halcyon Theme
+- name: Research Assistant
   url: https://bchiang7.github.io/halcyon-site/
   code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+  description: Worked on the Sustaining the Knowledge Commons Project, supervised by <a class="underline-link" href="https://uniweb.uottawa.ca/members/706/profile">Prof. Heather Morrison</a>. Individually responsible for data wrangling and co-authored paper under review by peer-reviewed JASIST. I notably found errors in a dataset used for the past decade and provided an updated dataset for analysis.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
-  used:
+    - thing: Microsoft Excel (Advanced)
     - thing: Python
-    - thing: MySQL
-    - thing: Flask
+    - thing: Pandas
+    - thing: Data Analysis
+
+- name: KOHO-Out
+  url: https://github.com/AmitShanbhoug/frontend
+  code: https://github.com/AmitShanbhoug/frontend
+  description: Selected to work 1:1 with <a class="underline-link" href="https://www.koho.ca/" target="_blank">Koho</a>. Built a responsive web app that organizes group activities based on individual budgets.
+  used:
+    - thing: TypeScript
+    - thing: JavaScript
     - thing: HTML
     - thing: CSS
-    - thing: JavaScript
 
 - name: myNEU Redesign
   url: https://bchiang7.github.io/Redesign-myNEU/
@@ -67,16 +63,16 @@
     - thing: OpenWeatherMap API
     - thing: Google Maps API
 
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
+ - name: ScreenTime 2.0
+   url: https://play.google.com/store/apps/details?id=com.starry.management
+   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
+   used:
+   - thing: JavaScript
+   - thing: CSS
+   - thing: Handlebars
+   - thing: Backbone
+   - thing: Marionette
+   - thing: Cordova
 
 - name: Personal Website V2
   url: https://bchiang7.github.io/v2
