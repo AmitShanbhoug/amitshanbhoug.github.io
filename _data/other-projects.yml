@@ -24,6 +24,15 @@
     - thing: HTML
     - thing: CSS
 
+- name: Financial Buddy
+  url: https://github.com/AmitShanbhoug/FinancialBuddy
+  description: descriptionFinancial Buddy is a web based application that helps you stay on track for your short-term and long-term financial goals by keeping you accountable and connecting you with the right tools/services. 
+  used:
+    - thing: JSX
+    - thing: HTML
+    - thing: CSS
+    - thing: REST Backend
+
 #- name: Crowd DJ
  # url: https://github.com/crowddj/crowddj-react
   #description:
