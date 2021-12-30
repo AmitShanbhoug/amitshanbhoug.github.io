@@ -17,9 +17,9 @@
   }
 
   &__hello, &__tagline {
-    font-size: 2.0rem;
+    font-size: 1.5rem;
     @include desktop {
-      font-size: 2.25rem;
+      font-size: 1.25rem;
     }
     @include tablet {
       font-size: 2rem;
