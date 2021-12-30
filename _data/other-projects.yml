@@ -1,18 +1,29 @@
-- name: Researcher
+- name: Researcher (Ongoing)
   url: 
   description: Awarded undergraduate research scholarship. Exploring a SMART/IoT solution for long-term care homes supervised by <a class="underline-link" href="https://paobranco.github.io/">Prof. Paula Branco</a>.
   used:
-    - thing: Literature Review
     - thing: Data Pipeline
     - thing: System Design
+    - thing: Literature Review
+
+- name: Technical Product Manager (Ongoing)
+  url: 
+  description: Managing 6 developers building 3-D campus map mobile app, leading sprint planning and design reviews.
+  used:
+    - thing: Jira
+    - thing: Confluence
+    - thing: React Native
+    - thing: Typescript
+    - thing: MongoDB
+    - thing: Figma
 
 - name: Research Assistant
   url: https://sustainingknowledgecommons.org/
   description: Worked on the Sustaining the Knowledge Commons Project, supervised by <a class="underline-link" href="https://uniweb.uottawa.ca/members/706/profile">Prof. Heather Morrison</a>. Individually responsible for data wrangling and co-authored paper under review by peer-reviewed JASIST. I notably found errors in a dataset used for the past decade and provided an updated dataset for analysis.
   used:
-    - thing: Microsoft Excel (Advanced)
     - thing: Python
     - thing: Pandas
+    - thing: Microsoft Excel (Advanced)
     - thing: Data Analysis
 
 - name: KOHO-Out
