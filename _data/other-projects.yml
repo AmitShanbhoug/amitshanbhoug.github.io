@@ -19,7 +19,7 @@
 
 - name: Research Assistant
   url: https://sustainingknowledgecommons.org/
-  description: Worked on the Sustaining the Knowledge Commons Project, supervised by <a class="underline-link" href="https://uniweb.uottawa.ca/members/706/profile">Prof. Heather Morrison</a>. Individually responsible for data wrangling and co-authored paper under review by peer-reviewed JASIST. I notably found errors in a dataset used for the past decade and provided an updated dataset for analysis.
+  description: Worked on the Sustaining the Knowledge Commons Project, supervised by <a class="underline-link" href="https://uniweb.uottawa.ca/members/706/profile">Prof. Heather Morrison</a>. Individually responsible for data wrangling and <a class="underline-link" href="https://ruor.uottawa.ca/handle/10393/42327">co-authored paper</a> under review by peer-reviewed JASIST. I notably found errors in a dataset used for the past decade and provided an updated dataset for analysis.
   used:
     - thing: Python
     - thing: Pandas
