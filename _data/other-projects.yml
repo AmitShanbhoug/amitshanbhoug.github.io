@@ -37,7 +37,7 @@
 
 - name: Financial Buddy
   url: https://github.com/AmitShanbhoug/FinancialBuddy
-  description: descriptionFinancial Buddy is a web based application that helps you stay on track for your short-term and long-term financial goals by keeping you accountable and connecting you with the right tools/services. 
+  description: A web application that helps users track short-term and long-term financial goals by keeping users accountable and connecting them with the right tools/services. 
   used:
     - thing: JSX
     - thing: HTML
