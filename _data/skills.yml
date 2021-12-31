@@ -14,10 +14,10 @@ toolsframeworks:
   - item: Git & Github
   - item: PostgreSQL
   - item: MongoDB
-  - item: Agile
+  - item: Agile Methodology
 
 product:
-  - item: Agile Methodology
+  - item: Kanban
   - item: Rapid Prototyping
   - item: Product Roadmap
   - item: Scrum Sprint Burndown
