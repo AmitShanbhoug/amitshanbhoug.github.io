@@ -11,7 +11,9 @@ toolsframeworks:
   - item: Django REST
   - item: Node.js
   - item: Figma
-  - item: Git & Github
+  - item: Framer
+  - item: Git
+  - item: Github
   - item: PostgreSQL
   - item: MongoDB
   - item: Agile Methodology
