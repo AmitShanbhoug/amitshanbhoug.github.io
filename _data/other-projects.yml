@@ -12,10 +12,10 @@
   used:
     - thing: Jira
     - thing: Confluence
-    - thing: React Native
-    - thing: Typescript
+    - thing: Java
+    - thing: Android Studio
     - thing: MongoDB
-    - thing: Figma
+    - thing: Framer
 
 - name: Research Assistant
   url: https://sustainingknowledgecommons.org/
