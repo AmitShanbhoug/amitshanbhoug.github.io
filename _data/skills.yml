@@ -1,5 +1,5 @@
 languages:
-  - item: JavaScript (ES6)
+  - item: JavaScript
   - item: TypeScript
   - item: HTML
   - item: CSS
