@@ -1,6 +1,6 @@
-- name: Researcher (Ongoing)
+- name: Researcher
   url: 
-  description: Awarded undergraduate research scholarship. Exploring a SMART/IoT solution for long-term care homes supervised by <a class="underline-link" href="https://paobranco.github.io/">Prof. Paula Branco</a>.
+  description: Awarded undergraduate research scholarship. Exploring a SMART/IoT solution for long-term care homes supervised by <a class="underline-link" href="https://paobranco.github.io/">Prof. Paula Branco</a>. Drafting manuscript for Journal submission as lead author.
   used:
     - thing: Data Pipeline
     - thing: System Design
